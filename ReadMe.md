@@ -1,6 +1,6 @@
 # Biological Sequence Alignment
 
-In this project, we implement global, semi-global, local and k-band sequence alignment using biological sequence alignment algorithms such as - **Needleman-Wunsch**, **Smith-Waterman** and **Hirschberg** algorithms.
+In this project, we implement global, semi-global, local and k-band sequence alignment using biological sequence alignment algorithms such as - **Needleman-Wunsch**, **Smith-Waterman**, **Hirschberg** and **k-band** algorithms.
 
 ## Running the program
 
